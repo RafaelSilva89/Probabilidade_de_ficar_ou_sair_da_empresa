@@ -93,7 +93,7 @@ Este projeto foi separado em duas partes:
 Toda a solução foi baseada no método CRISP-DM (Cross Industry Standard Process for Data Mining).
 
 <div align="center">
-<img src="Imagens/CRISP.png" width="500px">
+<img src="Imagens/CRISP.png" width="600px">
 </div>
 </br>
 
@@ -106,7 +106,7 @@ Toda a solução foi baseada no método CRISP-DM (Cross Industry Standard Proces
 **1º Gráfico:**
 
 <div align="center">
-<img src="Imagens/Condicao_Funcionarios.png" width="500px">
+<img src="Imagens/Condicao_Funcionarios.png" width="700px">
 </div>
 </br>
 
@@ -117,7 +117,7 @@ Toda a solução foi baseada no método CRISP-DM (Cross Industry Standard Proces
 **2º Gráfico:**
 
 <div align="center">
-<img src="Imagens/Ficar_Sair.png" width="500px">
+<img src="Imagens/Ficar_Sair.png" width="700px">
 </div>
 </br>
 
@@ -128,7 +128,7 @@ Toda a solução foi baseada no método CRISP-DM (Cross Industry Standard Proces
 **3º Gráfico:**
 
 <div align="center">
-<img src="Imagens/IdadeChanceSair.png" width="500px">
+<img src="Imagens/IdadeChanceSair.png" width="700px">
 </div>
 </br>
 
@@ -141,7 +141,7 @@ Toda a solução foi baseada no método CRISP-DM (Cross Industry Standard Proces
 **4º Gráfico:**
 
 <div align="center">
-<img src="Imagens/Densidade_probabilidade_1.png" width="500px">
+<img src="Imagens/Densidade_probabilidade_1.png" width="700px">
 </div>
 </br>
 
@@ -155,7 +155,7 @@ O gráfico mostra a distribuição de probabilidade da variável.
 **5º Gráfico:**
 
 <div align="center">
-<img src="Imagens/Estado_civil_empresa.png" width="500px">
+<img src="Imagens/Estado_civil_empresa.png" width="700px">
 </div>
 </br>
 
@@ -176,11 +176,13 @@ _**Foi usado dois algoritmos para construir o modelo de classificação:**_
 _**Comparação dos modelos de machine Learning:**_
 
 <div align="center">
-<img src="Imagens/ComparacaoModelo_HP.PNG" width="550px">
+<img src="Imagens/ComparacaoModelo_HP.PNG" width="600px">
 </div>
 </br>
 
 **Nota:**
+
+Legenda: HP - Hiperparâmetros (significa que o modelo passou por otimização de hiperparâmetros)
 
 - O modelo **Random Forest - HP**, mostra que teve um Overfitting, ou seja, o algoritmo não consegue apreender um comportamento, não é capaz de generalizar que é a capacidade de acertar os dados que ele nunca viu.
 - O modelo **Regressão Logistica - HP**	mostrou uma capacidade de generalização.
@@ -190,7 +192,7 @@ _**Comparação dos modelos de machine Learning:**_
 _**Modelo final:**_
 
 <div align="center">
-<img src="Imagens/ComparacaoModelo_Final.PNG" width="570px">
+<img src="Imagens/ComparacaoModelo_Final.PNG" width="600px">
 </div>
 </br>
 
